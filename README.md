@@ -1,6 +1,6 @@
 # 1111 - A Simple Number Guessing Game
 
-[Menu ScreenShot] (https://github.com/anlyetim/1111-Number-Guessing-Game/blob/main/1111%20Game/Images/1111menu.jpg)
+![Menu ScreenShot] (https://github.com/anlyetim/1111-Number-Guessing-Game/blob/main/1111%20Game/Images/1111menu.jpg)
 
 ## TR
 
