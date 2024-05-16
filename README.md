@@ -1,5 +1,6 @@
 # 1111 - A Simple Number Guessing Game
 
+[Menu ScreenShot] (https://github.com/anlyetim/1111-Number-Guessing-Game/blob/main/1111%20Game/Images/1111menu.jpg)
 
 ## TR
 
@@ -10,7 +11,6 @@ Amacımız, bu rakamları en hızlı şekilde bilmektir.
 Oyunumuzda "Yakınlık Düzeyi" adını verdiğimiz bir kavram bulunmaktadır.
 Bu sistem, rakibimizdeki rakama ne kadar yakın olduğumuzu gösterir.
 ```
-#000000
 > "!" İfadesi sayının doğru olduğunu, ancak konumunun yanlış olduğunu ifade eder.
 
 > "1" ifadesi ise rakamın tamamen doğru olduğuna işaret eder.
