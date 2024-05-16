@@ -10,6 +10,7 @@ Amacımız, bu rakamları en hızlı şekilde bilmektir.
 Oyunumuzda "Yakınlık Düzeyi" adını verdiğimiz bir kavram bulunmaktadır.
 Bu sistem, rakibimizdeki rakama ne kadar yakın olduğumuzu gösterir.
 ```
+#000000
 > "!" İfadesi sayının doğru olduğunu, ancak konumunun yanlış olduğunu ifade eder.
 
 > "1" ifadesi ise rakamın tamamen doğru olduğuna işaret eder.
