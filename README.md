@@ -46,6 +46,8 @@ Bu Projede bana: :raccoon:
 
 Yardım etmiştir. Arkadaşlarıma çok teşekkür ediyorum. 
 
+Ayrıca bu yolda bize rehberlik eden çok değerli [Öğr. Gör. Sena Nur BENLİ](https://github.com/senanurbenli) :star: hocama da teşekkürlerimi iletiyorum.
+
 ## ENG :pushpin:
 
 ```
