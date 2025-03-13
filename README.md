@@ -1,3 +1,12 @@
+<p align="center">
+<img src="https://github.com/anlyetim/1111-Number-Guessing-Game/blob/main/icon.png" width="150" height="150" style="vertical-align: middle; margin-right: 5px;">
+</p>
+<p align="center">
+  <img src=https://img.shields.io/badge/Language-Python-white >
+  <img src=https://img.shields.io/badge/Library-Pygame-white >
+  <img src=https://img.shields.io/badge/Type-Game-white >
+</p>
+
 # 1111 - A Simple Number Guessing Game
 
 ![Banner Photo](https://github.com/anlyetim/1111-Number-Guessing-Game/blob/main/1111%20Game/Images/1111menu.jpg)
